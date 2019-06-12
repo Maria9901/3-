@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(217, 238, 241) ;
+   }
+div {
+    display: inline-block;
+    margin-right: 20px;
+} 
+img {
+    position: relative;
+    height: 250px;
+    width: 350px;
+    top:20px;
+    left:50px;
+}
+h1 {
+    position: relative;
+    left:100px;
+}
+p {
+    position: relative;
+    left:85px;
+    bottom:15px;
+}
+input {
+   
+    position: relative;
+    left:160px;
+    width:100px;
+    height:30px;
+    border-radius: 30px;
+}
